@@ -1,0 +1,3 @@
+-- Ktnang dependencies
+
+IncludeDir = {}
